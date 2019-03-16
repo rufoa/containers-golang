@@ -1,0 +1,12 @@
+Source: containers-golang
+Section: devel
+Priority: optional
+Maintainer: Lokesh Mandvekar <lsm5@fedoraproject.org>
+Build-Depends: debhelper (>=9),
+Standards-Version: 3.9.6
+Homepage: https://github.com/seccomp/containers-golang
+Vcs-Git: git://github.com/lsm5/containers-golang.git
+
+Package: containers-golang
+Architecture: all
+Description: Seccomp config for container tools

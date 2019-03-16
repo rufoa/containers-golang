@@ -1,0 +1,16 @@
+#!/usr/bin/make -f
+
+DH_VERBOSE=1
+BUILDDIR := $(shell pwd)
+DESTDIR := $(BUILDDIR)/debian/containers-golang
+PREFIX := $(DESTDIR)/usr
+DATADIR := $(PREFIX)/share
+
+%:
+	dh $@ --builddirectory=$(BUILDDIR)
+
+override_dh_auto_build:
+
+override_dh_auto_install:
+	install -dp $(DATADIR)/containers
+	install -m0644 seccomp.json $(DATADIR)/containers
