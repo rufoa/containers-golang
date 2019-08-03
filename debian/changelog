@@ -1,4 +1,4 @@
-containers-golang (0.3.1-1~ubuntu18.04~ppa1) bionic; urgency=medium
+containers-golang (0.3.1-1~ubuntu18.04~ppa2) disco; urgency=medium
 
   * bump to v0.3.1
 
