@@ -1,0 +1,14 @@
+containers-golang (0.3.1-1~ubuntu16.04~ppa1) xenial; urgency=medium
+
+  * bump to v0.3.1
+  * built 000d349
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Sat, 03 Aug 2019 19:05:30 +0000
+
+containers-golang (0.1-1~dev~ubuntu16.04~ppa1) xenial; urgency=medium
+
+  * first build for bionic
+  * built 8ca8945
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Fri, 15 Mar 2019 23:45:34 -0400
+
