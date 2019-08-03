@@ -1,3 +1,9 @@
+containers-golang (0.3.1-1~ubuntu18.04~ppa1) bionic; urgency=medium
+
+  * bump to v0.3.1
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Sun, 28 Jul 2019 23:31:04 +0000
+
 containers-golang (0.1-1~dev~ubuntu18.04~ppa1) bionic; urgency=medium
 
   * first build for bionic
