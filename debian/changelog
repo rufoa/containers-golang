@@ -1,3 +1,9 @@
+containers-golang (0.3.1-1~ubuntu18.04~ppa3) bionic; urgency=medium
+
+  * autobuilt v0.3.1
+
+ -- RH Container Bot <rh.container.bot@gmail.com>  Wed, 09 Oct 2019 11:05:27 +0000
+
 containers-golang (0.3.1-1~ubuntu18.04~ppa2) bionic; urgency=medium
 
   * autobuilt v0.3.1
