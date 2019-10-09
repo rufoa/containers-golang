@@ -1,3 +1,9 @@
+containers-golang (0.3.1-1~ubuntu18.04~ppa3) disco; urgency=medium
+
+  * autobuilt v0.3.1
+
+ -- RH Container Bot <rh.container.bot@gmail.com>  Wed, 09 Oct 2019 10:54:53 +0000
+
 containers-golang (0.3.1-1~ubuntu18.04~ppa2) disco; urgency=medium
 
   * bump to v0.3.1
