@@ -1,3 +1,9 @@
+containers-golang (0.3.1-1~ubuntu19.10~ppa1) eoan; urgency=medium
+
+  * build for eoan
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Sun, 10 Nov 2019 18:51:20 +0000
+
 containers-golang (0.3.1-1~ubuntu18.04~ppa4) disco; urgency=medium
 
   * autobuilt v0.3.1
