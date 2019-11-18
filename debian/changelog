@@ -1,3 +1,15 @@
+containers-golang (0.3.1-3) sid; urgency=medium
+
+  * make changelog and build version-release format more generic
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Mon, 18 Nov 2019 13:10:02 +0000
+
+containers-golang (0.3.1-2~ubuntu3) eoan; urgency=medium
+
+  * trial rebuild - no change 
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Mon, 18 Nov 2019 04:10:45 +0000
+
 containers-golang (0.3.1-2~ubuntu2) eoan; urgency=medium
 
   * remove debian/source/format cause OBS complains 
