@@ -1,3 +1,9 @@
+containers-golang (0.3.1-4) stable; urgency=medium
+
+  * bump revision - no change
+
+ -- Lokesh Mandvekar <lsm5@fedoraproject.org>  Mon, 18 Nov 2019 13:20:55 +0000
+
 containers-golang (0.3.1-3) sid; urgency=medium
 
   * make changelog and build version-release format more generic
